@@ -5,7 +5,7 @@ This guide ensures accurate, mission-aligned identification and tagging of the *
 
 ---
 
-## 🧭 Tagging Workflow: Operational Decomposition
+## Tagging Workflow: Operational Decomposition
 
 **Objective:** Determine **what is being targeted for exploitation** and assign the most specific classification available from each of the first four METEORSTORM layers:
 
@@ -14,11 +14,11 @@ This guide ensures accurate, mission-aligned identification and tagging of the *
 3. **Service (SVC)** – What operational function is being *disrupted, degraded, or targeted*?
 4. **Asset (AST)** – What technical element (hardware, firmware, software, data, or signal) is *specifically targeted or implicated* in the attack?
 
-> ⚠️ Use positive identification only. Do not tag unless supported by technical indicators, adversary telemetry, or vetted modeling.
+> Use positive identification only. Do not tag unless supported by technical indicators, adversary telemetry, or vetted modeling.
 
 ---
 
-## 🎯 Analytical Tagging Priorities (P1–P4)
+## Analytical Tagging Priorities (P1–P4)
 
 After decomposing the ToE, assess the nature of the observed or modeled activity to determine the threat phase:
 
@@ -31,7 +31,7 @@ After decomposing the ToE, assess the nature of the observed or modeled activity
 
 ---
 
-## 🛡️ Defensive Context Tags
+## Defensive Context Tags
 
 If the intelligence indicates that a resilience measure or detection signature is available, assign:
 
@@ -40,7 +40,7 @@ If the intelligence indicates that a resilience measure or detection signature i
 
 ---
 
-## 📊 METEORSTORM Taxonomy Reference
+## METEORSTORM Taxonomy Reference
 
 ### Primary Capability Environment (PCE)
 
@@ -99,7 +99,7 @@ If the intelligence indicates that a resilience measure or detection signature i
 
 ---
 
-## 🧑‍✈️ Final Guidance for Operators
+## Final Guidance for Operators
 
 - **Tag what the adversary is targeting**, not what you suspect.  
 - **Use multiple tags** only when clearly supported (e.g., `PCE-OR`, `SEG-SP`, `SVC-DP`, `AST-SW`, `AN-IOA`).  

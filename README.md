@@ -18,10 +18,7 @@ To support **mission-driven threat intelligence** and **operational security tea
 
 ## 📦 Contents
 
-- `Meteorstorm_Tagging_Guide.md`: Analyst-facing guide for decomposing threat reports  
-- `machinetag.json`: METEORSTORM taxonomy for MISP integration  
-- `examples/`: Optional directory for sample tagged reports (if added)  
-- `docs/`: (Optional) Supporting diagrams or quick-reference materials  
+- `Meteorstorm_Tagging_Guide.md`: Analyst-facing guide for decomposing threat reports   
 
 ## ⚖️ Usage Policy
 

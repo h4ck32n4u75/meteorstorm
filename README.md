@@ -474,7 +474,7 @@ meteorstorm:AN=AN-IOC
 
 Support is provided to Space ISAC staff, Space ISAC members, researchers, and enthusiasts in a prioritized manner. For questions, guidance, or to discuss piloting METEORSTORM with other Threat Intelligence Platforms, please contact:
 
-**william.o.ferguson@ethicallyhackingspace.com**
+**william.o.ferguson@ethicallyhacking.space**
 
 > **Note:** This is version one, built around MISP as it is a solid open-source option. We are actively looking for organizations that want to pilot using other TIPs and would welcome collaboration opportunities.
 

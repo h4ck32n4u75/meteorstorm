@@ -68,8 +68,8 @@ METEORSTORM (*Multiple Environment Threat Evaluation of Resources, Space Threats
 Although this guide focuses on applying the METEORSTORM tagging taxonomy to threat intelligence workflows, the framework itself is far more comprehensive. It integrates five interlocking core functions that support space mission resilience across the full threat lifecycle:
 
 1. **Concept of Operations (CONOPS)** — defines operational context, mission objectives, and failure modes of interest
-2. **Threat Modeling** — identifies relevant adversary behaviors, exposures, and attack surfaces
-3. **Detection Engineering** — aligns telemetry, signatures, and analytic models to threat behaviors
+2. **Contexualized Threat Modeling** — identifies relevant adversary behaviors, exposures, and attack surfaces
+3. **Converged Detection Engineering** — aligns telemetry, signatures, and analytic models to threat behaviors
 4. **Incident Response Preparation** — supports pre-planned response pathways and contingency workflows
 5. **Adversary Management** — provides a structured approach to understanding, tracking, and countering hostile actors
 
